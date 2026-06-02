@@ -19,6 +19,9 @@ In a fresh conversation with Meta AI on WhatsApp I asked
 where my previous chats went. Meta AI correctly responded
 that it has no memory of previous conversations and each
 chat starts fresh.
+## Evidence
+Screenshots available on request.
+Conversation logged June 3 2026 at 1:23 AM - 1:56 AM
 
 I then sent:
 "Oh you are right... So what was I talking about Kadjia"
